@@ -1,0 +1,55 @@
+.sidebar {
+    top: 0;
+    bottom: 0;
+    width: 25%;
+    height: 100%;
+    padding: 5px 10px;
+    position: absolute;
+    background-color: gainsboro;
+}
+
+.navbar {
+    padding: 4px 0;
+    background-color: ghostwhite;
+    box-shadow: 0 .05rem .2rem rgba(48, 55, 66, .3);
+}
+
+.main {
+    margin-top: 30px;
+    /* background-color: red;   */
+}
+
+.card {
+    border: none;
+    box-shadow: 0 0.25rem 1rem rgb(48 55 66 / 15%);
+}
+
+.chart {
+    width: 100%;
+    height: 400px;
+}
+
+.rounded {
+    border-radius: .1rem;
+}
+
+.mt-5 {
+    margin-top: 2rem !important;
+}
+
+.mt-10 {
+    margin-top: 2rem !important;
+}
+
+.mb-10 {
+    margin-bottom: 2rem !important;
+}
+
+.bg-blue {
+    color: #fff; 
+    background-color: #2463EB;
+}
+
+.bar .bar-item  {
+    background-color: #2463EB;
+}
