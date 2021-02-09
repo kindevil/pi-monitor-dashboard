@@ -1,6 +1,6 @@
 <!--
  * @Author: jia
- * @LastEditTime: 2021-02-08 13:35:49
+ * @LastEditTime: 2021-02-09 14:12:34
  * @FilePath: /monitor/src/components/Info.vue
  * @Date: 2021-02-08 11:54:01
  * @Software: VS Code
@@ -9,9 +9,6 @@
     <div class="card mt-5">
         <div class="card-header">
             <div class="card-title h5">设备信息</div>
-            <div class="card-subtitle text-gray">
-            IP地址: 192.168.1.32
-            </div>
         </div>
         <div class="card-body">
             <dl>

@@ -1,6 +1,6 @@
 <!--
  * @Author: jia
- * @LastEditTime: 2021-02-08 14:10:24
+ * @LastEditTime: 2021-02-09 14:13:03
  * @FilePath: /monitor/src/components/CPU.vue
  * @Date: 2021-02-08 10:46:50
  * @Software: VS Code
@@ -9,9 +9,6 @@
     <div class="card mt-5">
         <div class="card-header">
             <div class="card-title h5">CPU</div>
-            <div class="card-subtitle text-gray">
-            IP地址: 192.168.1.32
-            </div>
         </div>
 
         <div class="card-body">

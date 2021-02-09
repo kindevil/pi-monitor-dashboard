@@ -1,3 +1,7 @@
+a{
+    color: #2463EB;
+}
+
 .sidebar {
     top: 0;
     bottom: 0;
@@ -10,12 +14,11 @@
 
 .navbar {
     padding: 4px 0;
-    background-color: ghostwhite;
+    background-color: white;
     box-shadow: 0 .05rem .2rem rgba(48, 55, 66, .3);
 }
 
 .main {
-    margin-top: 30px;
     /* background-color: red;   */
 }
 
